@@ -1,0 +1,217 @@
+.projectPageContainer {
+  width: 100%;
+  max-width: 1100px; /* Wider for large media display like Arkotype */
+  margin: 0 auto;
+  padding: 80px 24px; /* More top padding like Arkotype */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Main project article */
+.projectDisplay {
+  display: flex;
+  flex-direction: column;
+  gap: 64px; /* Significant spacing between major sections */
+}
+
+/* Header section */
+.projectHeader {
+  margin-bottom: 48px;
+}
+
+.backLink {
+  margin-bottom: 48px;
+}
+
+.backLink a {
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.2s;
+}
+
+.backLink a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.projectTitle {
+  font-size: 32px;
+  font-weight: 500; /* Medium weight like Arkotype */
+  margin-bottom: 24px;
+  line-height: 1.2;
+}
+
+.projectMeta {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 24px;
+}
+
+.metaSeparator {
+  margin: 0 8px;
+}
+
+/* Section styling */
+.projectSection {
+  margin-bottom: 80px;
+}
+
+.sectionHeading {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.sectionArrow {
+  font-size: 20px;
+  margin-left: 8px;
+}
+
+.projectDescription {
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 800px; /* More controlled width for better readability */
+}
+
+.projectDescription p {
+  margin-bottom: 1.2em;
+}
+
+/* Media sections */
+.heroImage {
+  width: 100%;
+  margin-bottom: 64px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.mediaGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 32px;
+}
+
+.mediaItem {
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.mediaItem img,
+.mediaItem video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* External project link */
+.projectExternalLink {
+  margin-top: 48px;
+}
+
+.projectLink {
+  display: inline-block;
+  padding: 8px 0;
+  color: #333;
+  text-decoration: none;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.projectLink:hover {
+  border-bottom: 1px solid #333;
+}
+
+/* Link arrow styling */
+.linkArrow {
+  display: inline-block;
+  margin-left: 4px;
+  vertical-align: middle;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease;
+}
+
+.projectLink:hover .linkArrow {
+  transform: translateY(-1px) translateX(2px);
+}
+
+.externalLinkDescription {
+  margin-top: 16px;
+  font-size: 16px;
+  color: #666;
+}
+
+/* Footer */
+.projectFooter {
+  margin-top: 100px;
+  padding-top: 32px;
+  border-top: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+.backToTopLink a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.backToTopLink a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .projectPageContainer {
+    color: #eee;
+    background-color: #111;
+  }
+  
+  .backLink a, 
+  .backToTopLink a {
+    color: #ccc;
+  }
+  
+  .backLink a:hover, 
+  .backToTopLink a:hover {
+    color: #fff;
+  }
+  
+  .projectMeta {
+    color: #aaa;
+  }
+  
+  .externalLinkDescription {
+    color: #aaa;
+  }
+  
+  .projectLink {
+    color: #eee;
+    border-bottom-color: rgba(255,255,255,0.1);
+  }
+  
+  .projectLink:hover {
+    border-bottom-color: #eee;
+  }
+  
+  .projectFooter {
+    border-top-color: #333;
+  }
+  
+  .disclaimer {
+    color: #777;
+  }
+} 

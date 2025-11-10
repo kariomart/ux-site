@@ -1,0 +1,1313 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "kariomart",
+    "displayName": "",
+    "profession": "designer",
+    "location": "Brooklyn",
+    "pronouns": null,
+    "byline": "Martin Nayeri is a designer who blends a deep knowledge of UX and a passion for games to create digital experiences that people love. His work has been written about in Wired, used in a Coach campaign, sponsored by Adobe, and even featured at his favorite bar in Brooklyn.",
+    "website": "",
+    "websiteURL": "",
+    "about": "multidisciplinary digital designer specializing in interaction design & ui / ux",
+    "status": {
+      "text": "looking for a design or adjacent role in nyc!",
+      "emoji": "🤠",
+      "timestamp": "2024-04-03T08:19:16.423Z"
+    },
+    "sectionOrder": [
+      "Experience",
+      "Work",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "aS2WuEvozX1qoIknndIv",
+      "year": "LinkedIn",
+      "heading": "Data Communities",
+      "url": "https://martinnayeri.com/work/linkedin/",
+      "collaborators": [],
+      "description": "a sculptural, interactive experience that helps guests explore data stories of interest while also leaving their unique, creative mark.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 960,
+          "height": 540,
+          "url": "/content/media/Data-Communities-at-LinkedIn-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-4.jpg"
+        },
+        {
+          "type": "video",
+          "width": 720,
+          "height": 900,
+          "url": "/content/media/Data-Communities-at-LinkedIn-5.mp4"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Data-Communities-at-LinkedIn-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1032,
+          "height": 1285,
+          "url": "/content/media/Data-Communities-at-LinkedIn-10.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Data Communities",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "9A7xyo589GPHrR2JnpaZ",
+      "year": "Coach",
+      "heading": "Snow City",
+      "url": "https://martinnayeri.com/work/snow-city/",
+      "collaborators": [],
+      "description": "a mobile, browser-based experience to help Coach reach a new audience with their first videogame.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Snow-City-at-Coach-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 800,
+          "height": 800,
+          "url": "/content/media/Snow-City-at-Coach-2.gif"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2751,
+          "url": "/content/media/Snow-City-at-Coach-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 720,
+          "url": "/content/media/Snow-City-at-Coach-4.gif"
+        }
+      ],
+      "type": "project",
+      "title": "Snow City",
+      "company": "Coach"
+    },
+    {
+      "id": "KHInhjd2mPY2RWrSF2oi",
+      "year": "Personal",
+      "heading": "MULTIPUCK",
+      "url": "https://martinnayeri.com/work/multipuck/",
+      "collaborators": [],
+      "description": "after years on the age old international space station hardware, the game played by astronauts to pass the time has finally made its way back to earth...",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2217,
+          "height": 1242,
+          "url": "/content/media/MULTIPUCK-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1914,
+          "height": 1072,
+          "url": "/content/media/MULTIPUCK-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2209,
+          "height": 1236,
+          "url": "/content/media/MULTIPUCK-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2318,
+          "height": 1296,
+          "url": "/content/media/MULTIPUCK-4.png"
+        }
+      ],
+      "type": "project",
+      "title": "MULTIPUCK",
+      "company": ""
+    },
+    {
+      "id": "w2UPKFiqskzXe205N4TH",
+      "year": "Personal",
+      "heading": "CHRONO",
+      "url": "https://martinnayeri.com/work/chrono/",
+      "collaborators": [],
+      "description": "a two-player platform-fighter splattered with neon, kinetic movement, and just a sprinkle of bullet time.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1478,
+          "height": 922,
+          "url": "/content/media/CHRONO-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 2200,
+          "height": 1314,
+          "url": "/content/media/CHRONO-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1500,
+          "height": 904,
+          "url": "/content/media/CHRONO-3.png"
+        },
+        {
+          "type": "image",
+          "width": 3448,
+          "height": 2082,
+          "url": "/content/media/CHRONO-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2008,
+          "height": 1253,
+          "url": "/content/media/CHRONO-5.png"
+        }
+      ],
+      "type": "project",
+      "title": "CHRONO",
+      "company": ""
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "2Fx0K4gl8Ao8jpkK2BEF",
+      "year": "Ongoing",
+      "heading": "KOI",
+      "url": "https://martinnayeri.com/work/koi/",
+      "collaborators": [],
+      "description": "a minimalist abstraction of fish swimming through a vast ocean of ambient light and sound.\n\nDeveloped for iOS.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1218,
+          "height": 562,
+          "url": "/content/media/KOI-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 1218,
+          "height": 562,
+          "url": "/content/media/KOI-2.gif"
+        }
+      ],
+      "type": "sideProject",
+      "title": "KOI",
+      "company": ""
+    },
+    {
+      "id": "JRyHHtnhlHiTok5U1K5p",
+      "year": "2023",
+      "heading": "Nowruz",
+      "url": "https://kariomart.github.io/nowruz_2023/",
+      "collaborators": [],
+      "description": "a small game about Nowruz (persian new year). it was made for my family, but i think anyone can learn a little bit about the holiday from it!\n\nDeveloped to be played in browser on mobile.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1440,
+          "height": 1080,
+          "url": "/content/media/Nowruz-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 824,
+          "height": 1252,
+          "url": "/content/media/Nowruz-2.mp4"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-3.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-4.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-5.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-6.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-7.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-8.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-9.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 794,
+          "url": "/content/media/Nowruz-10.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Nowruz",
+      "company": ""
+    },
+    {
+      "id": "wigGtboG6h6zaMhuHOPK",
+      "year": "2022",
+      "heading": "Organic Sequencer",
+      "url": null,
+      "collaborators": [],
+      "description": "what if sequencers were imperfect by design? what if they could evolve over each sequence so that the user ends up losing control of the rhythm and organically growing a whole new one?",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1276,
+          "height": 912,
+          "url": "/content/media/Organic-Sequencer-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 480,
+          "height": 262,
+          "url": "/content/media/Organic-Sequencer-2.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1324,
+          "height": 742,
+          "url": "/content/media/Organic-Sequencer-3.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1322,
+          "height": 734,
+          "url": "/content/media/Organic-Sequencer-4.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1268,
+          "height": 708,
+          "url": "/content/media/Organic-Sequencer-5.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1270,
+          "height": 710,
+          "url": "/content/media/Organic-Sequencer-6.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1318,
+          "height": 736,
+          "url": "/content/media/Organic-Sequencer-7.mp4"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Organic Sequencer",
+      "company": ""
+    },
+    {
+      "id": "w2UJJo4odmOUm3e3rSTV",
+      "year": "2020",
+      "heading": "IRIDESCENT",
+      "url": "https://open.spotify.com/album/0j2W5kW2urMooV9LdZ1Sly?si=PPUKLzYMRMuCoWAPGDsauQ",
+      "collaborators": [],
+      "description": "a colorful set of tracks for my debut album",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/IRIDESCENT-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1575,
+          "height": 1575,
+          "url": "/content/media/IRIDESCENT-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1878,
+          "height": 1000,
+          "url": "/content/media/IRIDESCENT-3.gif"
+        },
+        {
+          "type": "image",
+          "width": 3507,
+          "height": 4960,
+          "url": "/content/media/IRIDESCENT-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3507,
+          "height": 4960,
+          "url": "/content/media/IRIDESCENT-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3507,
+          "height": 4960,
+          "url": "/content/media/IRIDESCENT-6.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "IRIDESCENT",
+      "company": ""
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "a7ubxRntnrov8VIfEYqy",
+      "year": "2022",
+      "heading": "Wondercab at Wonderville",
+      "url": "https://www.wonderville.nyc/",
+      "collaborators": [],
+      "description": "The Wondercab is an arcade cabinet curated by Death By Audio Arcade and featuring indie games that rotate for 3-month residency periods.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Wondercab-at-Wonderville-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Wondercab-at-Wonderville-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Wondercab-at-Wonderville-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Wondercab-at-Wonderville-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Wondercab-at-Wonderville-5.jpg"
+        }
+      ],
+      "type": "exhibition",
+      "title": "Wondercab",
+      "venue": "Wonderville",
+      "location": "Brooklyn"
+    },
+    {
+      "id": "SeBhlFjumjXFHszl2y1d",
+      "year": "2020",
+      "heading": "Beers and Betas at Brooklyn Brewery",
+      "url": "https://gamecenter.nyu.edu/event/beers-and-betas/",
+      "collaborators": [],
+      "description": "The NYU Game Center and the Brooklyn Brewery invite you to join us on Thursday, 2/6 for an evening of beers and games! Try your hand at the most exciting and innovative new games made by NYU Game Center students and alumni, paired with the latest flavors from the Tasting Room’s taps.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1536,
+          "height": 1024,
+          "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-5.jpg"
+        }
+      ],
+      "type": "exhibition",
+      "title": "Beers and Betas",
+      "venue": "Brooklyn Brewery",
+      "location": "New York"
+    }
+  ],
+  "talks": [],
+  "writing": [],
+  "awards": [
+    {
+      "id": "VCmrf1qfaRwvhDj4RAyB",
+      "year": "2021",
+      "heading": "Best in Gamification from Windowswear",
+      "url": "https://www.linkedin.com/posts/coach_we-are-proud-to-share-that-coach-won-four-activity-6899789636286447616-CIEI/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "award",
+      "title": "Best in Gamification",
+      "presenter": "Windowswear"
+    },
+    {
+      "id": "x1bVu1JmsgEIdZrHoUIt",
+      "year": "2020",
+      "heading": "NYU GameCenter Incubator from NYU GameCenter",
+      "url": "https://gamecenter.nyu.edu/about/incubator/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "award",
+      "title": "NYU GameCenter Incubator",
+      "presenter": "NYU GameCenter"
+    }
+  ],
+  "features": [
+    {
+      "id": "N04i7ZXDVo89PajBjAvM",
+      "year": "2022",
+      "heading": "Rewilding & Climate Change on Wired",
+      "url": "https://www.wired.com/story/rewilding-climate-change-gig-work/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "Rewilding & Climate Change",
+      "publisher": "Wired"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "ezUvfKJs51HX9VynZtbN",
+      "year": "2024 — Now",
+      "heading": "UXXX Designer at Netflix",
+      "url": null,
+      "collaborators": [],
+      "description": "* Designed & implemented user flows and interactions for Netflix’s push into games.\n\n\n* Translated client needs into user-centered design decisions to enhance engagement.\n\n* Art directed audio & visual components of Netflix game's digital experiences.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX Designer",
+      "company": "Netflix",
+      "location": ""
+    },
+    {
+      "id": "7WpwdLjegrlEM3WhAKE5",
+      "year": "2020 — Now",
+      "heading": "UX & Gameplay Engineer at Heavy Meadow",
+      "url": "https://heavymeadow.co/",
+      "collaborators": [],
+      "description": "* Designed and implemented the dynamic user interface and HUD. \n\n* Crafted the overall interaction design and game feel of the player character. \n\n* Designed gameplay systems and implemented how they’re visually are communicated to the player.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX & Gameplay Engineer",
+      "company": "Heavy Meadow",
+      "location": ""
+    },
+    {
+      "id": "AD2bo1cdQ2vC1BBWlz5A",
+      "year": "2023 — 2024",
+      "heading": "UX Designer at FableVison",
+      "url": "https://www.gpb.org/games/",
+      "collaborators": [],
+      "description": "* Designed user experience wireframes & game design spec for an educational game.\n\n*  Developed wireframes for the landing page of an educational games site.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX Designer",
+      "company": "FableVison",
+      "location": ""
+    },
+    {
+      "id": "oMOB9KP6P6vATKq4dnVQ",
+      "year": "2021 — 2022",
+      "heading": "Product Designer & Engineer at Coach",
+      "url": "https://martinnayeri.com/work/snow-city/",
+      "collaborators": [],
+      "description": "* Concepted, developed, and released a mobile, 3D, browser-based game for Coach’s Give a Little Love winter campaign. \n\n* Localized game across 10+ countries achieving more than 50,000 scores saved globally. \n\n* Coordinated alternate versions for physical retail and other activations.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer & Engineer",
+      "company": "Coach",
+      "location": ""
+    },
+    {
+      "id": "UVkBk3zubZMzJZs0wfzj",
+      "year": "2020 — 2021",
+      "heading": "UX Designer at Coach",
+      "url": null,
+      "collaborators": [],
+      "description": "* Designed, prototyped, and implemented innovative approaches for both physical and digital retail environments.\n\n*  Created an interactive generative art installation at iAPM Mall in Shanghai, enhancing customer experience. \n\n* Developed gamified shopping experiences employing user-centered design (Tmall, Go Rogue).",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX Designer",
+      "company": "Coach",
+      "location": ""
+    },
+    {
+      "id": "ikmrhR7LssGqnalZ0NqY",
+      "year": "2018 — 2018",
+      "heading": "Interactive Design Intern at HUSH",
+      "url": "https://www.heyhush.com/",
+      "collaborators": [],
+      "description": "* Developed UX wireframes and prototypes, collaborating closely with programmers to ensure seamless functionality. \n\n* Designed compelling pitch decks and refined architectural diagrams to support creative strategy development.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Interactive Design Intern",
+      "company": "HUSH",
+      "location": ""
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "ndzWPVHJq7n7WfEbT0on",
+      "year": "2016 — 2020",
+      "heading": "Bachelor of Fine Arts and Science in Game Design at New York University",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Fine Arts and Science in Game Design",
+      "school": "New York University",
+      "location": "New York"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "mLegGBbo9v6nWpbYhaur",
+      "platform": "Email",
+      "handle": "martin.nayer@gmail.com",
+      "url": "mailto:martin.nayer@gmail.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "ezUvfKJs51HX9VynZtbN",
+          "year": "2024 — Now",
+          "heading": "UX Designer at Netflix",
+          "url": null,
+          "collaborators": [],
+          "description": "* Designed & implemented user flows and interactions for Netflix’s push into games.\n\n\n* Helped design and develop sites specific to Netflix's new game launches.\n\n* Translated client needs into user-centered design decisions to enhance engagement.\n\n",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "Netflix",
+          "location": ""
+        },
+        {
+          "id": "7WpwdLjegrlEM3WhAKE5",
+          "year": "2020 — Now",
+          "heading": "UX & Gameplay Engineer at Heavy Meadow",
+          "hidden": true,
+          "url": "https://heavymeadow.co/",
+          "collaborators": [],
+          "description": "* Designed and implemented the dynamic user interface and HUD. \n\n* Crafted the overall interaction design and game feel of the player character. \n\n* Designed gameplay systems and implemented how they’re visually are communicated to the player.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX & Gameplay Engineer",
+          "company": "Heavy Meadow",
+          "location": ""
+        },
+        {
+          "id": "AD2bo1cdQ2vC1BBWlz5A",
+          "year": "2023 — 2024",
+          "hidden": true,
+          "heading": "UX Designer at FableVison",
+          "url": "https://www.gpb.org/games/",
+          "collaborators": [],
+          "description": "* Designed user experience wireframes & game design spec for an educational game.\n\n*  Developed wireframes for the landing page of an educational games site.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "FableVison",
+          "location": ""
+        },
+        {
+          "id": "UVkBk3zubZMzJZs0wfzj",
+          "year": "2020 — 2022",
+          "heading": "UX Designer at Coach",
+          "url": null,
+          "collaborators": [],
+          "description": "* Updated and maintained website pages for Coach Holiday and adjacent seasonal campaigns.\n\n * Designed, prototyped, and implemented innovative approaches for both physical and digital retail environments.\n\n* Developed gamified shopping experiences employing user-centered design (Tmall, Go Rogue).",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "Coach",
+          "location": ""
+        },
+        {
+          "id": "ikmrhR7LssGqnalZ0NzY",
+          "year": "2019-2020",
+          "heading": "UX Designer at Composite",
+          "url": "",
+          "collaborators": [],
+          "description": "* Built and maintained design systems to ensure consistency throughout Composite's site. \n\n* Designed supplementary graphics for Composite's clients websites aligning businesss goals with user needs.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "Composite",
+          "location": ""
+        },
+        {
+          "id": "ikmrhR7LssGqnalZ0NqY",
+          "year": "2018 — 2018",
+          "heading": "Interactive Design Intern at HUSH",
+          "url": "https://www.heyhush.com/",
+          "collaborators": [],
+          "description": "* Developed UX wireframes and prototypes, collaborating closely with programmers to ensure seamless functionality. \n\n* Designed compelling pitch decks and refined architectural diagrams to support creative strategy development.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Interactive Design Intern",
+          "company": "HUSH",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "CoachDisneyHarring2021",
+          "year": "2021",
+          "heading": "Coach Disney x Harring",
+          "url": "",
+          "collaborators": [],
+          "description": "A collaboration between Coach, Disney, and Keith Haring celebrating iconic characters and street art.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1080,
+              "height": 1920,
+              "url": "/content/media/harring_mobile.MP4"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/harring_desktop.png"
+            },
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/harring_bags.mov"
+            },
+            {
+              "type": "image",
+              "width": 2880,
+              "height": 1920,
+              "url": "/content/media/harring_site.png"
+            }
+          ],
+          "type": "project",
+          "title": "Coach Disney x Harring",
+          "company": "Coach"
+        },
+        {
+          "id": "EverybodyHouseGames2021",
+          "year": "2021",
+          "heading": "Everybody House Games",
+          "url": "",
+          "collaborators": [],
+          "description": "A bespoke site for a small indie games studio, showcasing their unique collection of experimental and playful interactive experiences.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/ehg_ss1.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/ehg_ss2.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/ehg_vid.gif"
+            }
+          ],
+          "type": "project",
+          "title": "Everybody House Games",
+          "company": "EHG"
+        },
+        {
+          "id": "aS2WuEvozX1qoIknndIv",
+          "year": "2021",
+          "heading": "Data Communities",
+          "url": "https://martinnayeri.com/work/linkedin/",
+          "collaborators": [],
+          "description": "a sculptural, interactive experience that helps guests explore data stories of interest while also leaving their unique, creative mark.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 960,
+              "height": 540,
+              "url": "/content/media/Data-Communities-at-LinkedIn-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-4.jpg"
+            },
+            {
+              "type": "video",
+              "width": 720,
+              "height": 900,
+              "url": "/content/media/Data-Communities-at-LinkedIn-5.mp4"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Data-Communities-at-LinkedIn-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1032,
+              "height": 1285,
+              "url": "/content/media/Data-Communities-at-LinkedIn-10.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Data Communities",
+          "company": "LinkedIn"
+        },
+        {
+          "id": "9A7xyo589GPHrR2JnpaZ",
+          "year": "2021",
+          "heading": "Snow City",
+          "order": 1,
+          "url": "https://martinnayeri.com/work/snow-city/",
+          "collaborators": [],
+          "description": "a mobile, browser-based experience to help Coach reach a new audience with their first videogame.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Snow-City-at-Coach-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 800,
+              "height": 800,
+              "url": "/content/media/Snow-City-at-Coach-2.gif"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2751,
+              "url": "/content/media/Snow-City-at-Coach-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 720,
+              "url": "/content/media/Snow-City-at-Coach-4.gif"
+            }
+          ],
+          "type": "project",
+          "title": "Snow City",
+          "company": "Coach"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "2Fx0K4gl8Ao8jpkK2BEF",
+          "year": "Ongoing",
+          "heading": "KOI",
+          "url": "https://martinnayeri.com/work/koi/",
+          "collaborators": [],
+          "description": "a minimalist abstraction of fish swimming through a vast ocean of ambient light and sound.\n\nDeveloped for iOS.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1218,
+              "height": 562,
+              "url": "/content/media/KOI-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 1218,
+              "height": 562,
+              "url": "/content/media/KOI-2.gif"
+            }
+          ],
+          "type": "sideProject",
+          "title": "KOI",
+          "company": ""
+        },
+        {
+          "id": "JRyHHtnhlHiTok5U1K5p",
+          "year": "2023",
+          "heading": "Nowruz",
+          "url": "https://kariomart.github.io/nowruz_2023/",
+          "collaborators": [],
+          "description": "a small game about Nowruz (persian new year). it was made for my family, but i think anyone can learn a little bit about the holiday from it!\n\nDeveloped to be played in browser on mobile.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1440,
+              "height": 1080,
+              "url": "/content/media/Nowruz-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 824,
+              "height": 1252,
+              "url": "/content/media/Nowruz-2.mp4"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-3.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-4.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-5.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-6.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-7.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-8.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-9.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 794,
+              "url": "/content/media/Nowruz-10.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Nowruz",
+          "company": ""
+        },
+        {
+          "id": "wigGtboG6h6zaMhuHOPK",
+          "year": "2022",
+          "heading": "Organic Sequencer",
+          "url": null,
+          "collaborators": [],
+          "description": "what if sequencers were imperfect by design? what if they could evolve over each sequence so that the user ends up losing control of the rhythm and organically growing a whole new one?",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1276,
+              "height": 912,
+              "url": "/content/media/Organic-Sequencer-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 480,
+              "height": 262,
+              "url": "/content/media/Organic-Sequencer-2.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1324,
+              "height": 742,
+              "url": "/content/media/Organic-Sequencer-3.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1322,
+              "height": 734,
+              "url": "/content/media/Organic-Sequencer-4.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1268,
+              "height": 708,
+              "url": "/content/media/Organic-Sequencer-5.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1270,
+              "height": 710,
+              "url": "/content/media/Organic-Sequencer-6.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1318,
+              "height": 736,
+              "url": "/content/media/Organic-Sequencer-7.mp4"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Organic Sequencer",
+          "company": ""
+        },
+        {
+          "id": "w2UJJo4odmOUm3e3rSTV",
+          "year": "2020",
+          "heading": "IRIDESCENT",
+          "url": "https://open.spotify.com/album/0j2W5kW2urMooV9LdZ1Sly?si=PPUKLzYMRMuCoWAPGDsauQ",
+          "collaborators": [],
+          "description": "a colorful set of tracks for my debut album",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/IRIDESCENT-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1575,
+              "height": 1575,
+              "url": "/content/media/IRIDESCENT-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1878,
+              "height": 1000,
+              "url": "/content/media/IRIDESCENT-3.gif"
+            },
+            {
+              "type": "image",
+              "width": 3507,
+              "height": 4960,
+              "url": "/content/media/IRIDESCENT-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3507,
+              "height": 4960,
+              "url": "/content/media/IRIDESCENT-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3507,
+              "height": 4960,
+              "url": "/content/media/IRIDESCENT-6.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "IRIDESCENT",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Exhibitions",
+      "items": [
+        {
+          "id": "a7ubxRntnrov8VIfEYqy",
+          "year": "2022",
+          "heading": "Wondercab at Wonderville",
+          "url": "https://www.wonderville.nyc/",
+          "collaborators": [],
+          "description": "The Wondercab is an arcade cabinet curated by Death By Audio Arcade and featuring indie games that rotate for 3-month residency periods.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Wondercab-at-Wonderville-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Wondercab-at-Wonderville-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Wondercab-at-Wonderville-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Wondercab-at-Wonderville-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Wondercab-at-Wonderville-5.jpg"
+            }
+          ],
+          "type": "exhibition",
+          "title": "Wondercab",
+          "venue": "Wonderville",
+          "location": "Brooklyn"
+        },
+        {
+          "id": "SeBhlFjumjXFHszl2y1d",
+          "year": "2020",
+          "heading": "Beers and Betas at Brooklyn Brewery",
+          "url": "https://gamecenter.nyu.edu/event/beers-and-betas/",
+          "collaborators": [],
+          "description": "The NYU Game Center and the Brooklyn Brewery invite you to join us on Thursday, 2/6 for an evening of beers and games! Try your hand at the most exciting and innovative new games made by NYU Game Center students and alumni, paired with the latest flavors from the Tasting Room’s taps.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1536,
+              "height": 1024,
+              "url": "/content/media/Beers-and-Betas-at-Brooklyn-Brewery-5.jpg"
+            }
+          ],
+          "type": "exhibition",
+          "title": "Beers and Betas",
+          "venue": "Brooklyn Brewery",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "VCmrf1qfaRwvhDj4RAyB",
+          "year": "2021",
+          "heading": "Best in Gamification from Windowswear",
+          "url": "https://www.linkedin.com/posts/coach_we-are-proud-to-share-that-coach-won-four-activity-6899789636286447616-CIEI/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "award",
+          "title": "Best in Gamification",
+          "presenter": "Windowswear"
+        },
+        {
+          "id": "x1bVu1JmsgEIdZrHoUIt",
+          "year": "2020",
+          "heading": "NYU GameCenter Incubator from NYU GameCenter",
+          "url": "https://gamecenter.nyu.edu/about/incubator/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "award",
+          "title": "NYU GameCenter Incubator",
+          "presenter": "NYU GameCenter"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "N04i7ZXDVo89PajBjAvM",
+          "year": "2022",
+          "heading": "Rewilding & Climate Change on Wired",
+          "url": "https://www.wired.com/story/rewilding-climate-change-gig-work/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "Rewilding & Climate Change",
+          "publisher": "Wired"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "ndzWPVHJq7n7WfEbT0on",
+          "year": "2016 — 2020",
+          "heading": "Bachelor of Fine Arts and Science in Game Design at New York University",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Fine Arts and Science in Game Design",
+          "school": "New York University",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "mLegGBbo9v6nWpbYhaur",
+          "platform": "Email",
+          "handle": "martin.nayer@gmail.com",
+          "url": "mailto:martin.nayer@gmail.com"
+        }
+      ]
+    }
+  ]
+}

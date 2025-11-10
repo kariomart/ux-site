@@ -1,0 +1,334 @@
+.profile {
+  width: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+  padding: clamp(24px, calc((100vw - 540px) / 2), 72px) 0;
+}
+
+.profileHeader {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.profileHeader h1 {
+  font-size: 20px;
+  font-weight: 350;
+}
+
+.byline {
+  color: var(--grey2);
+}
+
+.profilePhoto {
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background-color: var(--wash2);
+  overflow: hidden;
+}
+
+.profilePhoto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profileSection {
+  margin: 15px 0;
+}
+
+.profileSection:first-of-type {
+  margin-top: 36px;
+}
+
+.profileSection h3 {
+  font-size: var(--font-size);
+  font-weight: normal;
+  margin-bottom: calc((var(--font-size) * var(--line-height)) / 2);
+}
+
+.experiences {
+  display: flex;
+  flex-direction: column;
+  row-gap: 36px;
+  margin-top: 24px;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  margin-top: 24px;
+}
+
+.description {
+  color: var(--grey2);
+  display: flex;
+  row-gap: calc((var(--font-size) * var(--line-height)) / 2);
+  flex-direction: column;
+  margin-top: 24px;
+}
+
+.description p a {
+  border-bottom: 1px solid var(--wash1);
+}
+
+.year {
+  color: var(--grey3);
+  font-variant-numeric: tabular-nums;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.year::before {
+  content: "0000 — 0000";
+  visibility: hidden;
+}
+
+.year span {
+  position: absolute;
+  left: 0;
+  white-space: nowrap;
+}
+
+.title a:hover {
+  border-bottom: 1px solid;
+}
+
+.linkArrow {
+  white-space: nowrap;
+}
+
+.linkArrow svg {
+  margin-left: 2px;
+}
+
+.location {
+  color: var(--grey2);
+}
+
+.location ~ .description {
+  margin-top: calc((var(--font-size) * var(--line-height)) / 2);
+}
+
+@media (max-width: 480px) {
+  
+  .about .description,
+  .experiences,
+  .contacts {
+    margin-left: 16px;
+  }
+
+  .experience {
+    flex-direction: column;
+  }
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: calc((var(--font-size) * var(--line-height)) / 2);
+}
+
+.collapseToggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  color: inherit;
+  text-align: left;
+  width: 100%;
+  transition: background-color 0.2s ease;
+  border-radius: 4px;
+  padding: 4px 8px;
+  margin: 0 -8px;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+.toggleIcon {
+  transition: transform 0.3s ease;
+  transform: rotate(0deg);
+  display: block;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+}
+
+.toggleIcon.expanded {
+  transform: rotate(90deg);
+}
+
+.rightAligned {
+  margin-left: auto;
+  padding-left: 10px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sectionContent {
+  animation: fadeIn 0.4s ease-out forwards;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+}
+
+.fadeOut .sectionContent {
+  animation: fadeOut 0.1s ease-in forwards;
+}
+
+.experience {
+  display: flex;
+  flex-direction: row;
+  column-gap: 36px;
+}
+
+@media (max-width: 480px) {
+  .experience {
+    flex-direction: column;
+  }
+}
+
+/* Add hover effect for section headers */
+.collapseToggle:hover {
+  background-color: rgb(255, 0, 0); /* Bright red background */
+  color: white; /* White text for contrast */
+}
+
+/* For dark mode, if applicable */
+@media (prefers-color-scheme: dark) {
+  .collapseToggle:hover {
+    background-color: rgb(255, 0, 0); /* Bright red background */
+    color: white; /* White text for contrast */
+  }
+}
+
+/* Only apply to collapsed sections if preferred */
+.collapsed .collapseToggle:hover {
+  background-color: rgb(255, 0, 0); /* Bright red background */
+  color: white; /* White text for contrast */
+}
+
+/* For dark mode */
+@media (prefers-color-scheme: dark) {
+  .collapsed .collapseToggle:hover {
+    background-color: rgb(255, 0, 0); /* Bright red background */
+    color: white; /* White text for contrast */
+  }
+}
+
+.heroImage {
+  width: 200px;
+  margin-bottom: 24px;
+  overflow: hidden;
+  align-self: flex-start;
+}
+
+.heroImage img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.profileInfo {
+  width: 100%;
+}
+
+.styledLink {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.styledLink a {
+  border-bottom: 1px solid var(--wash1);
+}
+
+.styledLink a:hover {
+  border-bottom: 1px solid;
+}
+
+.styledLink .linkArrow {
+  margin-left: 2px;
+}
+
+/* Add this to fix the mobile highlight issue */
+.collapseToggle:focus {
+  outline: none;
+}
+
+.client {
+  color: var(--grey3);
+  font-variant-numeric: tabular-nums;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.client::before {
+  content: "Client Name";
+  visibility: hidden;
+}
+
+.client span {
+  position: absolute;
+  left: 0;
+  white-space: nowrap;
+}
+
+/* General links within sections - uncomment and customize if desired */
+/*
+.profileSection a:hover,
+.profileHeader a:hover {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  text-decoration: none;
+}
+*/
+
+/* Styled Work Links - to match the styling from StyledLink */
+.styledWorkLink {
+  border-bottom: 1px solid var(--wash1);
+  transition: border-bottom 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.styledWorkLink:hover {
+  border-bottom: 1px solid;
+}
+
+.styledWorkLink .linkArrow {
+  display: inline-block;
+  margin-left: 4px;
+  vertical-align: middle;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease;
+}
+
+.styledWorkLink:hover .linkArrow {
+  transform: translateY(-1px) translateX(2px);
+}

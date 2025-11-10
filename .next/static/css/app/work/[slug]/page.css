@@ -1,0 +1,221 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/work/[slug]/ProjectPage.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.ProjectPage_projectPageContainer__x7qVg {
+  width: 100%;
+  max-width: 1100px; /* Wider for large media display like Arkotype */
+  margin: 0 auto;
+  padding: 80px 24px; /* More top padding like Arkotype */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Main project article */
+.ProjectPage_projectDisplay__4xQZd {
+  display: flex;
+  flex-direction: column;
+  gap: 64px; /* Significant spacing between major sections */
+}
+
+/* Header section */
+.ProjectPage_projectHeader__tVUZ_ {
+  margin-bottom: 48px;
+}
+
+.ProjectPage_backLink__z1BLl {
+  margin-bottom: 48px;
+}
+
+.ProjectPage_backLink__z1BLl a {
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.2s;
+}
+
+.ProjectPage_backLink__z1BLl a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.ProjectPage_projectTitle__pCCwJ {
+  font-size: 32px;
+  font-weight: 500; /* Medium weight like Arkotype */
+  margin-bottom: 24px;
+  line-height: 1.2;
+}
+
+.ProjectPage_projectMeta__r1TLn {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 24px;
+}
+
+.ProjectPage_metaSeparator__TNDUU {
+  margin: 0 8px;
+}
+
+/* Section styling */
+.ProjectPage_projectSection__vzbMW {
+  margin-bottom: 80px;
+}
+
+.ProjectPage_sectionHeading__xmtV_ {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.ProjectPage_sectionArrow__tlC2z {
+  font-size: 20px;
+  margin-left: 8px;
+}
+
+.ProjectPage_projectDescription__8Awyn {
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 800px; /* More controlled width for better readability */
+}
+
+.ProjectPage_projectDescription__8Awyn p {
+  margin-bottom: 1.2em;
+}
+
+/* Media sections */
+.ProjectPage_heroImage__OZjDD {
+  width: 100%;
+  margin-bottom: 64px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.ProjectPage_mediaGrid__sTVug {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 32px;
+  gap: 32px;
+}
+
+.ProjectPage_mediaItem__JzXjK {
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.ProjectPage_mediaItem__JzXjK img,
+.ProjectPage_mediaItem__JzXjK video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* External project link */
+.ProjectPage_projectExternalLink__xT82l {
+  margin-top: 48px;
+}
+
+.ProjectPage_projectLink__7WPWU {
+  display: inline-block;
+  padding: 8px 0;
+  color: #333;
+  text-decoration: none;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.ProjectPage_projectLink__7WPWU:hover {
+  border-bottom: 1px solid #333;
+}
+
+/* Link arrow styling */
+.ProjectPage_linkArrow__Zeamb {
+  display: inline-block;
+  margin-left: 4px;
+  vertical-align: middle;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease;
+}
+
+.ProjectPage_projectLink__7WPWU:hover .ProjectPage_linkArrow__Zeamb {
+  transform: translateY(-1px) translateX(2px);
+}
+
+.ProjectPage_externalLinkDescription__gaCQX {
+  margin-top: 16px;
+  font-size: 16px;
+  color: #666;
+}
+
+/* Footer */
+.ProjectPage_projectFooter__lr8TJ {
+  margin-top: 100px;
+  padding-top: 32px;
+  border-top: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.ProjectPage_disclaimer__ao3Iq {
+  color: #999;
+}
+
+.ProjectPage_backToTopLink__WmSWi a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.ProjectPage_backToTopLink__WmSWi a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .ProjectPage_projectPageContainer__x7qVg {
+    color: #eee;
+    background-color: #111;
+  }
+  
+  .ProjectPage_backLink__z1BLl a, 
+  .ProjectPage_backToTopLink__WmSWi a {
+    color: #ccc;
+  }
+  
+  .ProjectPage_backLink__z1BLl a:hover, 
+  .ProjectPage_backToTopLink__WmSWi a:hover {
+    color: #fff;
+  }
+  
+  .ProjectPage_projectMeta__r1TLn {
+    color: #aaa;
+  }
+  
+  .ProjectPage_externalLinkDescription__gaCQX {
+    color: #aaa;
+  }
+  
+  .ProjectPage_projectLink__7WPWU {
+    color: #eee;
+    border-bottom-color: rgba(255,255,255,0.1);
+  }
+  
+  .ProjectPage_projectLink__7WPWU:hover {
+    border-bottom-color: #eee;
+  }
+  
+  .ProjectPage_projectFooter__lr8TJ {
+    border-top-color: #333;
+  }
+  
+  .ProjectPage_disclaimer__ao3Iq {
+    color: #777;
+  }
+} 

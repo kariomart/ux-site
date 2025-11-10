@@ -1,0 +1,10 @@
+.workLayout {
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: dark) {
+  .workLayout {
+    background-color: #111;
+  }
+} 
