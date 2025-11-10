@@ -93,8 +93,8 @@ type PageParams = {
 };
 
 // Let Next.js handle the metadata type inference
-export async function generateMetadata({ params }) {
-  const { slug } = params;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const project = await getProjectData(slug);
   
   if (!project) {
@@ -118,8 +118,8 @@ export async function generateMetadata({ params }) {
 }
 
 // Use the default page component name that Next.js expects
-export default async function Page({ params }) {
-  const { slug } = params;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   console.log(`[Page] Rendering page for slug: ${slug}`);
   const project = await getProjectData(slug);
 

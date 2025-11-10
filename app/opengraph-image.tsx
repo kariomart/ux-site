@@ -12,10 +12,6 @@ export const size = {
 export const contentType = 'image/png'
 
 export default async function Image() {
-  const imageSrc = await fetch(new URL('../public/content/media/profilePhoto.jpg', import.meta.url)).then(
-    (res) => res.arrayBuffer()
-  )
-
   return new ImageResponse(
     (
       <div
@@ -26,9 +22,12 @@ export default async function Image() {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
+          fontSize: 60,
+          color: 'white',
+          fontWeight: 'bold',
         }}
       >
-        <img src={imageSrc as any} height="400" style={{ borderRadius: '50%' }} />
+        <div>{profileData.general.byline}</div>
       </div>
     ),
     {
